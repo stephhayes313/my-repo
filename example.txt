@@ -1,3 +1,0 @@
-This is an example.
-
-Added and removed lines to the example file.
